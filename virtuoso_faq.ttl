@@ -14,15 +14,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Full support for RDF 1.1" ;
-	schema:text "Full support for RDF 1.1" .
+	schema:name "Full support for RDF 1.1"@en ;
+	schema:text "Full support for RDF 1.1"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes" ;
-	schema:text "Yes" ;
+	schema:name "Yes"@en ;
+	schema:text "Yes"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b5ea3f0af76375b49faac4f6fd5cd8b37fc323ce> a schema:Question ;
@@ -32,8 +32,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Full support for Sparql 1.1 (local and HTTP)" ;
-	schema:text "Full support for Sparql 1.1 (local and HTTP)" .
+	schema:name "Full support for Sparql 1.1 (local and HTTP)"@en ;
+	schema:text "Full support for Sparql 1.1 (local and HTTP)"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#e51475f6ade92d90cdfb2957ef8d825c1c2d1dfb> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -42,8 +42,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Full support for named graphs (quad store)" ;
-	schema:text "Full support for named graphs (quad store)" .
+	schema:name "Full support for named graphs (quad store)"@en ;
+	schema:text "Full support for named graphs (quad store)"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#785710b9e2dc1055089b250b6e95e189bbb91e5c> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -52,8 +52,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Full support for all W3C serialization formats" ;
-	schema:text "Full support for all W3C serialization formats" .
+	schema:name "Full support for all W3C serialization formats"@en ;
+	schema:text "Full support for all W3C serialization formats"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#1febfe9745e889d5aeef8822a2db3efe4ea1bbb3> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2a15ad28a1fb4737283f91fcc2bebb742a2a816e> ;
@@ -62,15 +62,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "RDFS Support" ;
-	schema:text "RDFS Support" .
+	schema:name "RDFS Support"@en ;
+	schema:text "RDFS Support"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2a15ad28a1fb4737283f91fcc2bebb742a2a816e> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, through use of built-in and Custom Inference Rules" ;
-	schema:text "Yes, through use of built-in and Custom Inference Rules" ;
+	schema:name "Yes, through use of built-in and Custom Inference Rules"@en ;
+	schema:text "Yes, through use of built-in and Custom Inference Rules"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9009d86cdd971c92503e5103e69ae5541663610f> a schema:Question ;
@@ -80,8 +80,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "RDFS++ Support" ;
-	schema:text "RDFS++ Support" .
+	schema:name "RDFS++ Support"@en ;
+	schema:text "RDFS++ Support?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#de041a5e89075b13257312132cb71c5bd9b38101> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2a15ad28a1fb4737283f91fcc2bebb742a2a816e> ;
@@ -90,8 +90,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "OWL-DL Support" ;
-	schema:text "OWL-DL Support" .
+	schema:name "OWL-DL Support"@en ;
+	schema:text "OWL-DL Support?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#c820695e9841bcd292b7bf9478eae7d7372204aa> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2a15ad28a1fb4737283f91fcc2bebb742a2a816e> ;
@@ -100,8 +100,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "OWL-RL Support" ;
-	schema:text "OWL-RL Support" .
+	schema:name "OWL-RL Support"@en ;
+	schema:text "OWL-RL Support?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#f292b1bbdf0f7aa7aa882b929e5be6e1f4e37085> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2a15ad28a1fb4737283f91fcc2bebb742a2a816e> ;
@@ -110,8 +110,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "OWL (Other)" ;
-	schema:text "OWL (Other)" .
+	schema:name "OWL (Other)"@en ;
+	schema:text "OWL (Other)?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#ef167ce999ecbf8e9cd22580bf0e51df200029c9> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8ae9dc794cdc4291ec51b7648d2a868782d0beb0> ;
@@ -120,15 +120,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "SWRL" ;
-	schema:text "SWRL" .
+	schema:name "SWRL"@en ;
+	schema:text "SWRL compatability for Custom Inference Rules?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8ae9dc794cdc4291ec51b7648d2a868782d0beb0> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, through use of built-in and Custom Inference Rules via our Macro Engine. SWRL Rules can be re-written in SPARQL using terms from SPIN Vocabulary (example: We did this for Orange Telecoms in France who are advanced SWRL users at beyond POC stage)" ;
-	schema:text "Yes, through use of built-in and Custom Inference Rules via our Macro Engine. SWRL Rules can be re-written in SPARQL using terms from SPIN Vocabulary (example: We did this for Orange Telecoms in France who are advanced SWRL users at beyond POC stage)" ;
+	schema:name "Yes, through use of built-in and Custom Inference Rules via our Macro Engine. SWRL Rules can be re-written in SPARQL using terms from SPIN Vocabulary"@en ;
+	schema:text "Yes, through use of built-in and Custom Inference Rules via our Macro Engine. SWRL Rules can be re-written in SPARQL using terms from SPIN Vocabulary"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#68a233db78e248e3b0df45e2ce89345b41733b55> a schema:Question ;
@@ -138,15 +138,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "SPIN and /or SHACL" ;
-	schema:text "SPIN and /or SHACL" .
+	schema:name "SPIN and /or SHACL"@en ;
+	schema:text "SPIN and /or SHACL Support for Custom Inference Rules?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#201ab75c7a446379acdfbcc26d8328a644d2aa0d> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, courtesy of the Virtuoso Macro Library, which supports SPARQL as a Rule Language via terms from the SPIN Ontology" ;
-	schema:text "Yes, courtesy of the Virtuoso Macro Library, which supports SPARQL as a Rule Language via terms from the SPIN Ontology" ;
+	schema:name "Yes, courtesy of the Virtuoso Macro Library, which supports SPARQL as a Rule Language via terms from the SPIN Ontology"@en ;
+	schema:text "Yes, courtesy of the Virtuoso Macro Library, which supports SPARQL as a Rule Language via terms from the SPIN Ontology"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#4cafca7fc0f050c320151693c775249f45658c2b> a schema:Question ;
@@ -156,15 +156,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Other rule languages and extensions" ;
-	schema:text "Other rule languages and extensions" .
+	schema:name "Other rule languages and extensions"@en ;
+	schema:text "Other rule languages and extensions?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#39744869bcdd30e0f23dc4a9e8ae6fa6e3ec76d4> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "SQL Stored Procedure Language" ;
-	schema:text "SQL Stored Procedure Language" ;
+	schema:name "SQL Stored Procedure Language"@en ;
+	schema:text "SQL Stored Procedure Language Support?"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9c9ad166d293b62280d363584697159489d17207> a schema:Question ;
@@ -174,8 +174,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Support for closed-world rules or reasoning" ;
-	schema:text "Support for closed-world rules or reasoning" .
+	schema:name "Support for closed-world rules or reasoning"@en ;
+	schema:text "Support for closed-world rules or reasoning?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#ceef114037246cf686714fdb40e413404e4be054> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#201ab75c7a446379acdfbcc26d8328a644d2aa0d> ;
@@ -184,8 +184,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Geographic reasoning" ;
-	schema:text "Geographic reasoning" .
+	schema:name "Geographic reasoning"@en ;
+	schema:text "Geographic reasoning?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#db799b7f52349dae5faf71e8e9a8c4864107220e> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9a26a098da80c7e79c544c2864a27ead575bf851> ;
@@ -194,15 +194,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Reasoning Limitations or Constraints" ;
-	schema:text "Reasoning Limitations or Constraints" .
+	schema:name "Reasoning Limitations or Constraints"@en ;
+	schema:text "Reasoning Limitations or Constraints?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9a26a098da80c7e79c544c2864a27ead575bf851> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Only limited by capabilities of SPARQL. If you can express it in a SPARQL CONSTRUCT statement, it can function as a Rule for Reasoning and Inference." ;
-	schema:text "Only limited by capabilities of SPARQL. If you can express it in a SPARQL CONSTRUCT statement, it can function as a Rule for Reasoning and Inference." ;
+	schema:name "Only limited by capabilities of SPARQL. If you can express it in a SPARQL CONSTRUCT statement, it can function as a Rule for Reasoning and Inference."@en ;
+	schema:text "Only limited by capabilities of SPARQL. If you can express it in a SPARQL CONSTRUCT statement, it can function as a Rule for Reasoning and Inference."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#fe63bfdca523ba78652832a6a4f97cfbf7d20d2d> a schema:Question ;
@@ -212,15 +212,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are realized graphs (not virtualized) from external (e.g. Oracle) DBMSs supported?" ;
-	schema:text "Are realized graphs (not virtualized) from external (e.g. Oracle) DBMSs supported?" .
+	schema:name "Are realized graphs (not virtualized) from external (e.g. Oracle) DBMSs supported?"@en ;
+	schema:text "Are realized graphs (not virtualized) from external (e.g. Oracle) DBMSs supported?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b3ba6a5d877dd4201a8797839ba9075ffeaed597> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, \"realized\" (a/k/a materialized or persistent) graphs may be produced from external ODBC or JDBC accessible data sources, as well as internal SQL tables and document sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)" ;
-	schema:text "Yes, \"realized\" (a/k/a materialized or persistent) graphs may be produced from external ODBC or JDBC accessible data sources, as well as internal SQL tables and document sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)" ;
+	schema:name "Yes, \"realized\" (a/k/a materialized or persistent) graphs may be produced from external ODBC or JDBC accessible data sources, as well as internal SQL tables and document sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)"@en ;
+	schema:text "Yes, \"realized\" (a/k/a materialized or persistent) graphs may be produced from external ODBC or JDBC accessible data sources, as well as internal SQL tables and document sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a22ae5c79719df7431b150ecf9e0100701a4641c> a schema:Question ;
@@ -230,15 +230,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are graphs virtualized over external (e.g. Oracle) DBMSs supported?" ;
-	schema:text "Are graphs virtualized over external (e.g. Oracle) DBMSs supported?" .
+	schema:name "Are graphs virtualized over external (e.g. Oracle) DBMSs supported?"@en ;
+	schema:text "Are graphs virtualized over external (e.g. Oracle) DBMSs supported?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#680024fa8cb905ab0907325b6a0c53418f39bd94> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, \"Linked Data VIEWs,\" as we refer to this functionality, can virtualize external ODBC or JDBC accessible data sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)" ;
-	schema:text "Yes, \"Linked Data VIEWs,\" as we refer to this functionality, can virtualize external ODBC or JDBC accessible data sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)" ;
+	schema:name "Yes, \"Linked Data VIEWs,\" as we refer to this functionality, can virtualize external ODBC or JDBC accessible data sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)"@en ;
+	schema:text "Yes, \"Linked Data VIEWs,\" as we refer to this functionality, can virtualize external ODBC or JDBC accessible data sources. (JDBC requires ODBC-to-JDBC Bridge, which we can also supply.)"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8f5ae884483af635ee9060d41098341bda10b10b> a schema:Question ;
@@ -248,15 +248,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Can queries integrate external SPARQL endpoints?" ;
-	schema:text "Can queries integrate external SPARQL endpoints?" .
+	schema:name "Can queries integrate external SPARQL endpoints?"@en ;
+	schema:text "Can queries integrate external SPARQL endpoints?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#efe07bea68bec4001dfbcf6643aac71400ca7080> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, through Federated SPARQL (SPARQL-FED) queries as well as a built-in ability to include URI-constant and/or URI-variable de-referencing as part of the query solution production pipeline." ;
-	schema:text "Yes, through Federated SPARQL (SPARQL-FED) queries as well as a built-in ability to include URI-constant and/or URI-variable de-referencing as part of the query solution production pipeline." ;
+	schema:name "Yes, through Federated SPARQL (SPARQL-FED) queries as well as a built-in ability to include URI-constant and/or URI-variable de-referencing as part of the query solution production pipeline."@en ;
+	schema:text "Yes, through Federated SPARQL (SPARQL-FED) queries as well as a built-in ability to include URI-constant and/or URI-variable de-referencing as part of the query solution production pipeline."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#1d27288e932026afbc7cb1e7f218fa14eb6e961c> a schema:Question ;
@@ -266,8 +266,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Can queries integrate external SPARQL endpoints? with reasoning?" ;
-	schema:text "Can queries integrate external SPARQL endpoints? with reasoning?" .
+	schema:name "Can queries integrate external SPARQL endpoints? with reasoning?"@en ;
+	schema:text "Can queries integrate external SPARQL endpoints? with reasoning?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#028c2c8189fe8d20107bd890dbbab5db881efd38> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#ac455cd88e872e18222775a211d148c974b7ab5a> ;
@@ -276,15 +276,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What other kinds of data sources are supported?" ;
-	schema:text "What other kinds of data sources are supported?" .
+	schema:name "What other kinds of data sources are supported?"@en ;
+	schema:text "What other kinds of data sources are supported?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#ac455cd88e872e18222775a211d148c974b7ab5a> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Out of the box, Virtuoso supports data source access protocols including ODBC, JDBC (via ODBC-to-JDBC Bridge), HTTP, SOAP, and others, in addition to CSV, PDF, XLS, and many other (75+) document types via its collection of data transformation cartridges included as part of its Sponger Middleware Service." ;
-	schema:text "Out of the box, Virtuoso supports data source access protocols including ODBC, JDBC (via ODBC-to-JDBC Bridge), HTTP, SOAP, and others, in addition to CSV, PDF, XLS, and many other (75+) document types via its collection of data transformation cartridges included as part of its Sponger Middleware Service." ;
+	schema:name "Out of the box, Virtuoso supports data source access protocols including ODBC, JDBC (via ODBC-to-JDBC Bridge), HTTP, SOAP, and others, in addition to CSV, PDF, XLS, and many other (75+) document types via its collection of data transformation cartridges included as part of its Sponger Middleware Service."@en ;
+	schema:text "Out of the box, Virtuoso supports data source access protocols including ODBC, JDBC (via ODBC-to-JDBC Bridge), HTTP, SOAP, and others, in addition to CSV, PDF, XLS, and many other (75+) document types via its collection of data transformation cartridges included as part of its Sponger Middleware Service."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#00bc4dfad3c6b01a21c73f9076ff9af5356bdf06> a schema:Question ;
@@ -294,8 +294,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Can queries merge graphs over virtual and realized triples?" ;
-	schema:text "Can queries merge graphs over virtual and realized triples?" .
+	schema:name "Can queries merge graphs over virtual and realized triples?"@en ;
+	schema:text "Can queries merge graphs over virtual and realized triples?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#4d18273bce4f3cb19aa28f0585d66b9c2111dba1> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -304,8 +304,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "R2RML Support" ;
-	schema:text "R2RML Support" .
+	schema:name "R2RML Support"@en ;
+	schema:text "R2RML Support"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#6d7675b18f7f733a8cb236edc6202c2bf5cebf8c> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -314,8 +314,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Mapping beyond R2RML (e.g. general constraints or mapping tables/graphs)" ;
-	schema:text "Mapping beyond R2RML (e.g. general constraints or mapping tables/graphs)" .
+	schema:name "Mapping beyond R2RML (e.g. general constraints or mapping tables/graphs)"@en ;
+	schema:text "Mapping beyond R2RML (e.g. general constraints or mapping tables/graphs)?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#f82de576a9bae25b5acbbb30d1ec02c725d0974e> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#cbe7a5623b7b95dbd97537f71b1653ead6243b24> ;
@@ -324,15 +324,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Other mapping syntaxes" ;
-	schema:text "Other mapping syntaxes" .
+	schema:name "Other mapping syntaxes"@en ;
+	schema:text "Other mapping syntaxes?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#cbe7a5623b7b95dbd97537f71b1653ead6243b24> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Virtuoso's Native Quad Mapping Language" ;
-	schema:text "Virtuoso's Native Quad Mapping Language" ;
+	schema:name "Virtuoso's Native Quad Mapping Language"@en ;
+	schema:text "Virtuoso's Native Quad Mapping Language"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#af66012f6aa4a06260f742c4042268763f83e911> a schema:Question ;
@@ -342,15 +342,15 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are there any limitations on reasoning for such virtual graphs? (See above)" ;
-	schema:text "Are there any limitations on reasoning for such virtual graphs? (See above)" .
+	schema:name "Are there any limitations on reasoning for such virtual graphs"@en ;
+	schema:text "Are there any limitations on reasoning for such virtual graphs? (See above)"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#816c52fd2bdd94a63cd0944823a6c0aa9384c103> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "No" ;
-	schema:text "No" ;
+	schema:name "No"@en ;
+	schema:text "No"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#20af53691bd5b116a712691a51a60144fcc33201> a schema:Question ;
@@ -360,8 +360,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are there other limitations for realized or virtualized graphs?" ;
-	schema:text "Are there other limitations for realized or virtualized graphs?" .
+	schema:name "Are there other limitations for realized or virtualized graphs?"@en ;
+	schema:text "Are there other limitations for realized or virtualized graphs?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#43769abcef7dea93291f27b1b5186fe2db5818a1> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#407bb29591d0f8a391ff5a24ef1fd942091f7bb6> ;
@@ -370,8 +370,8 @@
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What, if any, capabilities exist in your product line or other vendors products for user interface, BI and/or analytics?" ;
-	schema:text "What, if any, capabilities exist in your product line or other vendors products for user interface, BI and/or analytics?" .
+	schema:name "What, if any, capabilities exist in your product line or other vendors products for user interface, BI and/or analytics?"@en ;
+	schema:text "What, if any, capabilities exist in your product line or other vendors products for user interface, BI and/or analytics?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#407bb29591d0f8a391ff5a24ef1fd942091f7bb6> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
@@ -379,10 +379,10 @@
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:name """Virtuoso's ability to execute SPARQL commands through a SQL interface (\"SPASQL\" or \"SPARQL-in-SQL\") allows users to employ any ODBC, JDBC, or ADO.NET compliant BI and/or analytics application.
 
-Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
+Virtuoso also hosts its own Pivot Viewer and Query builder tools"""@en ;
 	schema:text """Virtuoso's ability to execute SPARQL commands through a SQL interface (\"SPASQL\" or \"SPARQL-in-SQL\") allows users to employ any ODBC, JDBC, or ADO.NET compliant BI and/or analytics application.
 
-Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
+Virtuoso also hosts its own Pivot Viewer and Query builder tools"""@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#7e06e78a41fc8d3454e43b3c191a2cc34585d6ec> a schema:Question ;
@@ -392,15 +392,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "For simple user interfaces – forms, tables, web pages" ;
-	schema:text "For simple user interfaces – forms, tables, web pages" .
+	schema:name "For simple user interfaces – forms, tables, web pages"@en ;
+	schema:text "For simple user interfaces – forms, tables, web pages"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2dcfc9f81a997b19484e11212bb82e5d611fb574> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Virtuoso has a graphical SPARQL Query Builder, Pivot Viewer, and RDF Editor, while also being accessible to existing 3rd party ODBC-, JDBC-, and ADO.NET-compliant tools that support SQL." ;
-	schema:text "Virtuoso has a graphical SPARQL Query Builder, Pivot Viewer, and RDF Editor, while also being accessible to existing 3rd party ODBC-, JDBC-, and ADO.NET-compliant tools that support SQL." ;
+	schema:name "Virtuoso has a graphical SPARQL Query Builder, Pivot Viewer, and RDF Editor, while also being accessible to existing 3rd party ODBC-, JDBC-, and ADO.NET-compliant tools that support SQL."@en ;
+	schema:text "Virtuoso has a graphical SPARQL Query Builder, Pivot Viewer, and RDF Editor, while also being accessible to existing 3rd party ODBC-, JDBC-, and ADO.NET-compliant tools that support SQL."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#f45557475324b8fc8469dae53f64c029cd134d0b> a schema:Question ;
@@ -410,15 +410,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "For business graphics" ;
-	schema:text "For business graphics" .
+	schema:name "For business graphics"@en ;
+	schema:text "For business graphics"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#825527fa1e9d326b6b1a1a7caac02db45652550d> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Handled by ODBC, JDBC, ADO.NET tools, or anything that can visualize CSV content." ;
-	schema:text "Handled by ODBC, JDBC, ADO.NET tools, or anything that can visualize CSV content." ;
+	schema:name "Handled by ODBC, JDBC, ADO.NET tools, or anything that can visualize CSV content."@en ;
+	schema:text "Handled by ODBC, JDBC, ADO.NET tools, or anything that can visualize CSV content."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b44ec1f6f56462df9fe2ee8a8df43ede78914fd6> a schema:Question ;
@@ -428,15 +428,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are the above capabilities coded or configured?" ;
-	schema:text "Are the above capabilities coded or configured?" .
+	schema:name "Are the above capabilities coded or configured?"@en ;
+	schema:text "Are the above capabilities coded or configured?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#e5f2019c1c8b97b03a8e4b12f358454055f505b5> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Subject to 3rd party application that supports relevant data access standards." ;
-	schema:text "Subject to 3rd party application that supports relevant data access standards." ;
+	schema:name "Subject to 3rd party application that supports relevant data access standards."@en ;
+	schema:text "Subject to 3rd party application that supports relevant data access standards."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#67ecb28585b396defde07f4697b672f09872df11> a schema:Question ;
@@ -446,15 +446,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Graphically showing relationships in customized views" ;
-	schema:text "Graphically showing relationships in customized views" .
+	schema:name "Graphically showing relationships in customized views"@en ;
+	schema:text "Graphically showing relationships in customized views?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#62472104207bbec00c86f15459d4fc22251b3661> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Ditto; we also have Javascript Toolkit that does offer some visualization components as basis for building applications that need this functionality if there are no 3rd party applications that suffice based on their binding to relavant open standards-based data access interfaces" ;
-	schema:text "Ditto; we also have Javascript Toolkit that does offer some visualization components as basis for building applications that need this functionality if there are no 3rd party applications that suffice based on their binding to relavant open standards-based data access interfaces" ;
+	schema:name "Ditto; we also have Javascript Toolkit that does offer some visualization components as basis for building applications that need this functionality if there are no 3rd party applications that suffice based on their binding to relavant open standards-based data access interfaces"@en ;
+	schema:text "Ditto; we also have Javascript Toolkit that does offer some visualization components as basis for building applications that need this functionality if there are no 3rd party applications that suffice based on their binding to relavant open standards-based data access interfaces"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8c7285c36852448fb964335980770efa0b05665f> a schema:Question ;
@@ -464,8 +464,8 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "For more sophisticated “data science” analytics" ;
-	schema:text "For more sophisticated “data science” analytics" .
+	schema:name "For more sophisticated “data science” analytics"@en ;
+	schema:text "For more sophisticated “data science” analytics"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#1e5d80285a4d7bbfae65062ef54cd34e3a547e54> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a7629bddd2b35cd5ba9da1f57d253aa9a5f5b949> ;
@@ -474,15 +474,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What are the programmatic interfaces and languages available?" ;
-	schema:text "What are the programmatic interfaces and languages available?" .
+	schema:name "What are the programmatic interfaces and languages available?"@en ;
+	schema:text "What are the programmatic interfaces and languages available?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a7629bddd2b35cd5ba9da1f57d253aa9a5f5b949> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Anything that can be connected to ODBC, JDBC, or ADO.NET can be programmed to operate against Virtuoso -- C/C+/C++/ObjC, C#, Java, Python, Perl, PHP, Ruby, RDF4J, Jena, etc. Other interfaces include POP, IMAP, NNTP, SOAP, HTTP(S), and more." ;
-	schema:text "Anything that can be connected to ODBC, JDBC, or ADO.NET can be programmed to operate against Virtuoso -- C/C+/C++/ObjC, C#, Java, Python, Perl, PHP, Ruby, RDF4J, Jena, etc. Other interfaces include POP, IMAP, NNTP, SOAP, HTTP(S), and more." ;
+	schema:name "Anything that can be connected to ODBC, JDBC, or ADO.NET can be programmed to operate against Virtuoso -- C/C+/C++/ObjC, C#, Java, Python, Perl, PHP, Ruby, RDF4J, Jena, etc. Other interfaces include POP, IMAP, NNTP, SOAP, HTTP(S), and more."@en ;
+	schema:text "Anything that can be connected to ODBC, JDBC, or ADO.NET can be programmed to operate against Virtuoso -- C/C+/C++/ObjC, C#, Java, Python, Perl, PHP, Ruby, RDF4J, Jena, etc. Other interfaces include POP, IMAP, NNTP, SOAP, HTTP(S), and more."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2564e3102ca6b68d5701de1b5fa11ac39177a953> a schema:Question ;
@@ -492,15 +492,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Security models available" ;
-	schema:text "Security models available" .
+	schema:name "Security models available"@en ;
+	schema:text "Security models available"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#ceed4b3597906dbf6899e29077f5dfa7b1722b56> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Role-Based Access Controls (RBAC) and more sophisticated Attribute-Based Access Controls (ABAC)" ;
-	schema:text "Role-Based Access Controls (RBAC) and more sophisticated Attribute-Based Access Controls (ABAC)" ;
+	schema:name "Role-Based Access Controls (RBAC) and more sophisticated Attribute-Based Access Controls (ABAC)"@en ;
+	schema:text "Role-Based Access Controls (RBAC) and more sophisticated Attribute-Based Access Controls (ABAC)"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b1556779d5873d8759efe59ed2996b3755e68adf> a schema:Question ;
@@ -510,15 +510,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Cyber-security hardening" ;
-	schema:text "Cyber-security hardening" .
+	schema:name "Cyber-security hardening"@en ;
+	schema:text "Cyber-security hardening?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9076b9db96da586c8b5d0591b5483591e0920d48> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "ABAC combined with WebID-TLS and/or WebID OpenID Connect protocols" ;
-	schema:text "ABAC combined with WebID-TLS and/or WebID OpenID Connect protocols" ;
+	schema:name "ABAC combined with WebID-TLS and/or WebID OpenID Connect protocols"@en ;
+	schema:text "ABAC combined with WebID-TLS and/or WebID OpenID Connect protocols"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#0af149c2ed169b89f192451f70ee9a3ae70eab02> a schema:Question ;
@@ -528,15 +528,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Encryption" ;
-	schema:text "Encryption" .
+	schema:name "Encryption"@en ;
+	schema:text "Encryption"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#983506cc38fde180d18092a0ec1493486af81417> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, courtesy of TLS" ;
-	schema:text "Yes, courtesy of TLS" ;
+	schema:name "Yes, courtesy of TLS"@en ;
+	schema:text "Yes, courtesy of TLS"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#3749cec77dec528b148971baebddee4bd2fdfea2> a schema:Question ;
@@ -546,15 +546,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Gremlin/property graph" ;
-	schema:text "Gremlin/property graph" .
+	schema:name "Gremlin/property graph"@en ;
+	schema:text "Gremlin/property graph"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8eab5af94c1ca57e8866cc0bb209693dfff84242> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Supports Property Graph functionality by way of its SPASQL Query Language (SQL extended by SPARQL)." ;
-	schema:text "Supports Property Graph functionality by way of its SPASQL Query Language (SQL extended by SPARQL)." ;
+	schema:name "Supports Property Graph functionality by way of its SPASQL Query Language (SQL extended by SPARQL)."@en ;
+	schema:text "Supports Property Graph functionality by way of its SPASQL Query Language (SQL extended by SPARQL)."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9b9248d61d4f4376a3b085fa670f27b1c7cb5098> a schema:Question ;
@@ -564,15 +564,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "APIs (rest, graphql)" ;
-	schema:text "APIs (rest, graphql)" .
+	schema:name "APIs (rest, graphql)"@en ;
+	schema:text "APIs (rest, graphql)"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#f14a37fbddf4d16f40aa316f904af4b9366a4f69> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes via existing GraphSQL bindings to SPARQL" ;
-	schema:text "Yes via existing GraphSQL bindings to SPARQL" ;
+	schema:name "Yes via existing GraphSQL bindings to SPARQL"@en ;
+	schema:text "Yes via existing GraphSQL bindings to SPARQL"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a1d0030171bd6b77c76700765cfbba2414577972> a schema:Question ;
@@ -582,15 +582,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Machine learning compatibility" ;
-	schema:text "Machine learning compatibility" .
+	schema:name "Machine learning compatibility"@en ;
+	schema:text "Machine learning compatibility"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#0547eddc4edfaf1b24680c4ae43573a66a6a43f9> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Custom Reasoning and Inference Rules" ;
-	schema:text "Custom Reasoning and Inference Rules" ;
+	schema:name "Custom Reasoning and Inference Rules"@en ;
+	schema:text "Custom Reasoning and Inference Rules"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a1548d66ee184bafbee2e634e97fe4476fb6de05> a schema:Question ;
@@ -600,15 +600,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Natural language support" ;
-	schema:text "Natural language support" .
+	schema:name "Natural language support"@en ;
+	schema:text "Natural language support?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#3936f4301eb7122d06312200435f02e202ab07fe> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Courtesy of various NLP Services integrated into the Sponger Middleware e.g., DataTXT, BabelNet, and others" ;
-	schema:text "Courtesy of various NLP Services integrated into the Sponger Middleware e.g., DataTXT, BabelNet, and others" ;
+	schema:name "Courtesy of various NLP Services integrated into the Sponger Middleware e.g., DataTXT, BabelNet, and others"@en ;
+	schema:text "Courtesy of various NLP Services integrated into the Sponger Middleware e.g., DataTXT, BabelNet, and others"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#06bff3b60e3c7f9f216a74d919dd5ca3aecef654> a schema:Question ;
@@ -618,15 +618,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Development tools (stardog studio, gruff, etc.)" ;
-	schema:text "Development tools (stardog studio, gruff, etc.)" .
+	schema:name "Development tools "@en ;
+	schema:text "Development tools modules and add-ons?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a883cf240d82c6710bda1c0f282c612479c7ae2f> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Any Jena or RDF4j compliant development tool with work directly via our native providers for either or via their bindings to SPARQL." ;
-	schema:text "Any Jena or RDF4j compliant development tool with work directly via our native providers for either or via their bindings to SPARQL." ;
+	schema:name "Any Jena or RDF4j compliant development tool with work directly via our native providers for either or via their bindings to SPARQL."@en ;
+	schema:text "Any Jena or RDF4j compliant development tool with work directly via our native providers for either or via their bindings to SPARQL."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#31851a484aa6dcfdf3b05e72d56fe65276815dbb> a schema:Question ;
@@ -636,15 +636,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Other tools and capabilities that work with the DBMS" ;
-	schema:text "Other tools and capabilities that work with the DBMS" .
+	schema:name "Other tools and capabilities that work with the DBMS"@en ;
+	schema:text "Other tools and capabilities that work with the DBMS?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b61be97b31b5c354d205d1dace69afe219c9fc36> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Any ODBC-, JDBC-, ADO.NET compliant tool" ;
-	schema:text "Any ODBC-, JDBC-, ADO.NET compliant tool" ;
+	schema:name "Any ODBC-, JDBC-, ADO.NET compliant tool"@en ;
+	schema:text "Any ODBC-, JDBC-, ADO.NET compliant tool"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#27000fe95e07acfed057d47d7ef6bd7bc603fec1> a schema:Question ;
@@ -654,15 +654,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Please site any current benchmarks which considering both the level of reasoning and virtualization used." ;
-	schema:text "Please site any current benchmarks which considering both the level of reasoning and virtualization used." .
+	schema:name "Any current benchmarks which considering both the level of reasoning and virtualization used"@en ;
+	schema:text "Any current benchmarks which considering both the level of reasoning and virtualization used?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#7e58242d4896c8f1c90d5306ea44f5949c665704> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Linked Data Benchmark Council (LDBC) Social-Networking Benchmark (SNB) and/or Semantic Publishing Benchmark (SPB); Berlin SPARQL Benchmark (BSBM), Project Hobbit Faceted-Browsing Benchmark and/or Data Storage Benchmark (DSB)" ;
-	schema:text "Linked Data Benchmark Council (LDBC) Social-Networking Benchmark (SNB) and/or Semantic Publishing Benchmark (SPB); Berlin SPARQL Benchmark (BSBM), Project Hobbit Faceted-Browsing Benchmark and/or Data Storage Benchmark (DSB)" ;
+	schema:name "Linked Data Benchmark Council (LDBC) Social-Networking Benchmark (SNB) and/or Semantic Publishing Benchmark (SPB); Berlin SPARQL Benchmark (BSBM), Project Hobbit Faceted-Browsing Benchmark and/or Data Storage Benchmark (DSB)"@en ;
+	schema:text "Linked Data Benchmark Council (LDBC) Social-Networking Benchmark (SNB) and/or Semantic Publishing Benchmark (SPB); Berlin SPARQL Benchmark (BSBM), Project Hobbit Faceted-Browsing Benchmark and/or Data Storage Benchmark (DSB)"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#dc19e6b45f41efa11a1facb5681e8504b32c8a07> a schema:Question ;
@@ -672,15 +672,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Do you have any customer performance or DBMS size metrics?" ;
-	schema:text "Do you have any customer performance or DBMS size metrics?" .
+	schema:name "Customer performance or DBMS size metrics"@en ;
+	schema:text "Do you have any customer performance or DBMS size metrics?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#eea761b510d0b5c23d918093db1637da010716e9> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "On request, and subject to customer permission" ;
-	schema:text "On request, and subject to customer permission" ;
+	schema:name "On request, and subject to customer permission"@en ;
+	schema:text "On request, and subject to customer permission"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#068426378ef927822fe35bf47e9329f502e33136> a schema:Question ;
@@ -690,15 +690,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What are performance hits for levels of reasoning and/or virtualization" ;
-	schema:text "What are performance hits for levels of reasoning and/or virtualization" .
+	schema:name "What are performance hits for levels of reasoning and/or virtualization"@en ;
+	schema:text "What are performance hits for levels of reasoning and/or virtualization"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#820365b605deb7134da1bc0970b272342e1b4af3> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "We have several live instances of these capabilities that can be used to assess our peformance and scalability" ;
-	schema:text "We have several live instances of these capabilities that can be used to assess our peformance and scalability" ;
+	schema:name "We have several live instances of these capabilities that can be used to assess our peformance and scalability"@en ;
+	schema:text "We have several live instances of these capabilities that can be used to assess our peformance and scalability"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a59c39d37d59faf3143df37f6afce5e7fb591f92> a schema:Question ;
@@ -708,15 +708,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Scaling – Clustering, Parallel processing, load balancing, etc." ;
-	schema:text "Scaling – Clustering, Parallel processing, load balancing, etc." .
+	schema:name "Scaling – Clustering, Parallel processing, load balancing, etc."@en ;
+	schema:text "Scaling – Clustering, Parallel processing, load balancing, etc."@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#bd13dea1d476cd7b2734e9f8f4ebe643c7ff337d> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Horizontal scaling for parallel availability, load balancing, etc., via Replication Clusters (chain, star, bidirectional, and blends). Broader scaling via shared-nothing Elastic Clusters (node-quorums, etc.)." ;
-	schema:text "Horizontal scaling for parallel availability, load balancing, etc., via Replication Clusters (chain, star, bidirectional, and blends). Broader scaling via shared-nothing Elastic Clusters (node-quorums, etc.)." ;
+	schema:name "Horizontal scaling for parallel availability, load balancing, etc., via Replication Clusters (chain, star, bidirectional, and blends). Broader scaling via shared-nothing Elastic Clusters (node-quorums, etc.)."@en ;
+	schema:text "Horizontal scaling for parallel availability, load balancing, etc., via Replication Clusters (chain, star, bidirectional, and blends). Broader scaling via shared-nothing Elastic Clusters (node-quorums, etc.)."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#358c849116d227f32052ecd1d424564d39c4dd5d> a schema:Question ;
@@ -726,15 +726,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Any customers who have deployed real (not POC) applications" ;
-	schema:text "Any customers who have deployed real (not POC) applications" .
+	schema:name "Any customers who have deployed real (not POC) applications"@en ;
+	schema:text "Any customers who have deployed real (not POC) applications"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#673b2ca3a79f003afc0a3bcd17a70b6e02578a4b> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Globo, Europeana, Bio2RDF, OpenPharma, etc." ;
-	schema:text "Globo, Europeana, Bio2RDF, OpenPharma, etc." ;
+	schema:name "Globo, Europeana, Bio2RDF, OpenPharma, etc."@en ;
+	schema:text "Globo, Europeana, Bio2RDF, OpenPharma, etc."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#96dae157a368467bf9666ccb6cff1735bc576957> a schema:Question ;
@@ -744,15 +744,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Deployed or POC customers in finance" ;
-	schema:text "Deployed or POC customers in finance" .
+	schema:name "Deployed or POC customers in finance"@en ;
+	schema:text "Deployed or POC customers in finance"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#413f9ca3f03c6691d28fb7fbff07f38c04419301> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "BAML, WF, DB, State Street" ;
-	schema:text "BAML, WF, DB, State Street" ;
+	schema:name "BAML, WF, DB, State Street"@en ;
+	schema:text "BAML, WF, DB, State Street"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#4a4a708c5caa0e8875e09a02dab012e20acd967c> a schema:Question ;
@@ -762,15 +762,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Number of customers who have deployed real (not POC) applications" ;
-	schema:text "Number of customers who have deployed real (not POC) applications" .
+	schema:name "Number of customers who have deployed real (not POC) applications"@en ;
+	schema:text "Number of customers who have deployed real (not POC) applications"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#4a844ba1794139ace5344113a104ea0a3d7adef0> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "100+ companies" ;
-	schema:text "100+ companies" ;
+	schema:name "100+ companies"@en ;
+	schema:text "100+ companies"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5fd3ade0e077b5a39be8ddd90fbaa664be28bdca> a schema:Question ;
@@ -780,15 +780,15 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Number of deployment licenses sold" ;
-	schema:text "Number of deployment licenses sold" .
+	schema:name "Number of deployment licenses sold"@en ;
+	schema:text "Number of deployment licenses sold"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#f549aff423eedbffbaca3b50b236b2684c8599f5> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "1,400+" ;
-	schema:text "1,400+" ;
+	schema:name "1,400+"@en ;
+	schema:text "1,400+"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#92f0b65aa3b1642415376aa16a4115befcb6b924> a schema:Question ;
@@ -798,8 +798,8 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "We are still in POC mode, please indicate limited use products (e.g. developer, small team or personal editions or open source) or evaluation licenses available. Please also provide information on POC support available." ;
-	schema:text "We are still in POC mode, please indicate limited use products (e.g. developer, small team or personal editions or open source) or evaluation licenses available. Please also provide information on POC support available." .
+	schema:name "We are still in POC mode, please indicate limited use products (e.g. developer, small team or personal editions or open source) or evaluation licenses available. Please also provide information on POC support available."@en ;
+	schema:text "We are still in POC mode, please indicate limited use products (e.g. developer, small team or personal editions or open source) or evaluation licenses available. Please also provide information on POC support available."@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#54194872ee55950d3e824681167fcabde1173518> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
@@ -807,28 +807,10 @@ Virtuoso also hosts its own Pivot Viewer and Query builder tools""" ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:name """All support options are available for POC as for production/rollout, from public forums to confidential Support Cases. Priority handling may be raised or lowered, depending on contract subscription, per-incident fees, etc. 
 
-License scale and feature enablement may be limited to decrease costs during POC and similar development efforts; larger licenses may be acquired for rollout, etc. Low-level rollout license may be upgraded to higher-scale by paying the differential; low-level licenses do not result in double-charges unless you prefer to simultaneously deploy both old and new licenses to different ends....""" ;
+License scale and feature enablement may be limited to decrease costs during POC and similar development efforts; larger licenses may be acquired for rollout, etc. Low-level rollout license may be upgraded to higher-scale by paying the differential; low-level licenses do not result in double-charges unless you prefer to simultaneously deploy both old and new licenses to different ends...."""@en ;
 	schema:text """All support options are available for POC as for production/rollout, from public forums to confidential Support Cases. Priority handling may be raised or lowered, depending on contract subscription, per-incident fees, etc. 
 
-License scale and feature enablement may be limited to decrease costs during POC and similar development efforts; larger licenses may be acquired for rollout, etc. Low-level rollout license may be upgraded to higher-scale by paying the differential; low-level licenses do not result in double-charges unless you prefer to simultaneously deploy both old and new licenses to different ends....""" ;
-	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
-
-<http://data.openlinksw.com/oplweb/faq/Virtuoso/question#d4ab5b660110b235f9bcc7aa5b510095a4d79436> a schema:Question ;
-	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#6b1e9476e85119b15a394fc2d7795104f52af2fb> ;
-	schema:answerCount "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
-	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
-	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Is local support available near Washington DC?" ;
-	schema:text "Is local support available near Washington DC?" .
-
-<http://data.openlinksw.com/oplweb/faq/Virtuoso/question#6b1e9476e85119b15a394fc2d7795104f52af2fb> a schema:Answer ;
-	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
-	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "US headquarters is near Boston, MA, so local timezone support is always available. In-person support is generally not necessary, but may be arranged, typically on a fee-for-service basis plus expenses." ;
-	schema:text "US headquarters is near Boston, MA, so local timezone support is always available. In-person support is generally not necessary, but may be arranged, typically on a fee-for-service basis plus expenses." ;
+License scale and feature enablement may be limited to decrease costs during POC and similar development efforts; larger licenses may be acquired for rollout, etc. Low-level rollout license may be upgraded to higher-scale by paying the differential; low-level licenses do not result in double-charges unless you prefer to simultaneously deploy both old and new licenses to different ends...."""@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#2bb176ec1fb414bcfbc9487ef2ef1e339da8310e> a schema:Question ;
@@ -838,8 +820,8 @@ License scale and feature enablement may be limited to decrease costs during POC
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Others will evaluate specific costs, this is for general comparison: What would the cost be to deploy a single instance on Amazon cloud, e.g. t3.large, annual." ;
-	schema:text "Others will evaluate specific costs, this is for general comparison: What would the cost be to deploy a single instance on Amazon cloud, e.g. t3.large, annual." .
+	schema:name "Others will evaluate specific costs, this is for general comparison: What would the cost be to deploy a single instance on Amazon cloud, e.g. t3.large, annual."@en ;
+	schema:text "Others will evaluate specific costs, this is for general comparison: What would the cost be to deploy a single instance on Amazon cloud, e.g. t3.large, annual."@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#daf800fe0f8b621346d1f54134640eb756ab120d> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
@@ -847,10 +829,10 @@ License scale and feature enablement may be limited to decrease costs during POC
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:name """m3.xlarge (minimum recommended instance type) 
 PAGO annual: $1949 software cost, plus Amazon charges
-BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
+BYOL: minimum $99.99 license cost, plus Amazon charges"""@en ;
 	schema:text """m3.xlarge (minimum recommended instance type) 
 PAGO annual: $1949 software cost, plus Amazon charges
-BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
+BYOL: minimum $99.99 license cost, plus Amazon charges"""@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#64c13d92a671d39e26cd241ab082e79d556fd646> a schema:Question ;
@@ -859,8 +841,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What else would you like to emphasize about your products capabilities?" ;
-	schema:text "What else would you like to emphasize about your products capabilities?" .
+	schema:name "What else would you like to emphasize about your products capabilities?"@en ;
+	schema:text "What else would you like to emphasize about your products capabilities?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8467b849d9cb28df7adf0f59fedace0b8875cb44> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -869,8 +851,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Is inference supported on native RDF datasets, virtual (transient) datasets, persisted virtual graphs, and a combination of each?" ;
-	schema:text "Is inference supported on native RDF datasets, virtual (transient) datasets, persisted virtual graphs, and a combination of each?" .
+	schema:name "Is inference supported on native RDF datasets, virtual (transient) datasets, persisted virtual graphs, and a combination of each?"@en ;
+	schema:text "Is inference supported on native RDF datasets, virtual (transient) datasets, persisted virtual graphs, and a combination of each?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#b0d92768767f53efd0504310f887d552858a76a9> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -879,8 +861,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Is inference dynamic on the use cases above? That is to say: start with a graph, g, then update g with additional triples. Does inference cover the addition? " ;
-	schema:text "Is inference dynamic on the use cases above? That is to say: start with a graph, g, then update g with additional triples. Does inference cover the addition? " .
+	schema:name "Is inference dynamic on the use cases above? That is to say: start with a graph, g, then update g with additional triples. Does inference cover the addition? "@en ;
+	schema:text "Is inference dynamic on the use cases above? That is to say: start with a graph, g, then update g with additional triples. Does inference cover the addition? "@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#e576fc5be2d720d3db5a0d28860ccf30a75c591c> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#816c52fd2bdd94a63cd0944823a6c0aa9384c103> ;
@@ -889,8 +871,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Are there different levels of inference depending on the type of graph (As described in question 1) ? " ;
-	schema:text "Are there different levels of inference depending on the type of graph (As described in question 1) ? " .
+	schema:name "Are there different levels of inference depending on the type of graph (As described in question 1) ? "@en ;
+	schema:text "Are there different levels of inference depending on the type of graph (As described in question 1) ? "@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#bfa56cd5887ba3f257d959c6e536bd08c0bd2e18> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -899,8 +881,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Is transitivity supported for any owl:TransitiveProperty" ;
-	schema:text "Is transitivity supported for any owl:TransitiveProperty" .
+	schema:name "Is transitivity supported for any owl:TransitiveProperty?"@en ;
+	schema:text "Is transitivity supported for any owl:TransitiveProperty?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#39226b2a0e82173923187ebf72401962fb6d0e0d> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#5397e0583f14f6c88de06b1ef28f460a1fb5b0ae> ;
@@ -909,8 +891,8 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Can owl:sameAs be inferred from functional properties?" ;
-	schema:text "Can owl:sameAs be inferred from functional properties?" .
+	schema:name "Can owl:sameAs be inferred from functional properties?"@en ;
+	schema:text "Can owl:sameAs be inferred from functional properties?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8140d32be5002a1990ab0ef4c376b267a861057f> a schema:Question ;
 	schema:acceptedAnswer <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#d1cd6c87e97419c8ce667de3c6fa7564e17bacd2> ;
@@ -919,15 +901,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Can owl:equivalentClass (resp. owl:equivalentProperty) be derived from owl:sameAs between Classes (resp. Properties)?" ;
-	schema:text "Can owl:equivalentClass (resp. owl:equivalentProperty) be derived from owl:sameAs between Classes (resp. Properties)?" .
+	schema:name "Can owl:equivalentClass (resp. owl:equivalentProperty) be derived from owl:sameAs between Classes (resp. Properties)?"@en ;
+	schema:text "Can owl:equivalentClass (resp. owl:equivalentProperty) be derived from owl:sameAs between Classes (resp. Properties)?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#d1cd6c87e97419c8ce667de3c6fa7564e17bacd2> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "Yes, through use of a custom inference rule." ;
-	schema:text "Yes, through use of a custom inference rule." ;
+	schema:name "Yes, through use of a custom inference rule."@en ;
+	schema:text "Yes, through use of a custom inference rule."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#421e8330ca3cb9a5ad931a3d78aad6112870deea> a schema:Question ;
@@ -937,15 +919,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What is the support for OWL restrictions (all, some, value)?" ;
-	schema:text "What is the support for OWL restrictions (all, some, value)?" .
+	schema:name "What is the support for OWL restrictions (all, some, value)?"@en ;
+	schema:text "What is the support for OWL restrictions (all, some, value)?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#3bcbcffc0fad631ccf743bab750122e170f47fca> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "OWL restrictions can be implemented through use of a custom inference rule." ;
-	schema:text "OWL restrictions can be implemented through use of a custom inference rule." ;
+	schema:name "OWL restrictions can be implemented through use of a custom inference rule."@en ;
+	schema:text "OWL restrictions can be implemented through use of a custom inference rule."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#297e785994e6c12a319102acb05e0d0a4e6d20d2> a schema:Question ;
@@ -955,15 +937,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What is the support for owl:complementOf, owl:disjointWith?" ;
-	schema:text "What is the support for owl:complementOf, owl:disjointWith?" .
+	schema:name "What is the support for owl:complementOf, owl:disjointWith?"@en ;
+	schema:text "What is the support for owl:complementOf, owl:disjointWith?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#0bdad3dddc9277e03a36400aae51e505044958d1> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "The functionality of both can be implemented with custom inference rules." ;
-	schema:text "The functionality of both can be implemented with custom inference rules." ;
+	schema:name "The functionality of both can be implemented with custom inference rules."@en ;
+	schema:text "The functionality of both can be implemented with custom inference rules."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9edd0f5853f56d220252f872b0d85516b31f1e94> a schema:Question ;
@@ -973,15 +955,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What is the level of support for SPIN rules as part of building rule-sets and are there any limitations? " ;
-	schema:text "What is the level of support for SPIN rules as part of building rule-sets and are there any limitations? " .
+	schema:name "What is the level of support for SPIN rules as part of building rule-sets and are there any limitations? "@en ;
+	schema:text "What is the level of support for SPIN rules as part of building rule-sets and are there any limitations? "@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#14a43dc2b7d385bf1c7222ff06404f60d53f68a3> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "No Limitations" ;
-	schema:text "No Limitations" ;
+	schema:name "No Limitations"@en ;
+	schema:text "No Limitations"@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#9c621053a7c985c413810cdf8366ac8da765258d> a schema:Question ;
@@ -991,15 +973,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "What is the level of support for SHACL and SHACL rules as part of building rule-sets and are there any limitations? " ;
-	schema:text "What is the level of support for SHACL and SHACL rules as part of building rule-sets and are there any limitations? " .
+	schema:name "What is the level of support for SHACL and SHACL rules as part of building rule-sets and are there any limitations? "@en ;
+	schema:text "What is the level of support for SHACL and SHACL rules as part of building rule-sets and are there any limitations? "@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#a3a3a9dfd5663980003bb0d04603c315d4a9fc08> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "For Data Entry Validation SHACL can be supported through use of custom inference rules. Ideally this is better implemented within client applications such as RDF Editors. For Reasoning and Inference, it is identical to SPIN i.e., just a different namespace regarding use of SPARQL as a Rules Language. " ;
-	schema:text "For Data Entry Validation SHACL can be supported through use of custom inference rules. Ideally this is better implemented within client applications such as RDF Editors. For Reasoning and Inference, it is identical to SPIN i.e., just a different namespace regarding use of SPARQL as a Rules Language. " ;
+	schema:name "For Data Entry Validation SHACL can be supported through use of custom inference rules. Ideally this is better implemented within client applications such as RDF Editors. For Reasoning and Inference, it is identical to SPIN i.e., just a different namespace regarding use of SPARQL as a Rules Language. "@en ;
+	schema:text "For Data Entry Validation SHACL can be supported through use of custom inference rules. Ideally this is better implemented within client applications such as RDF Editors. For Reasoning and Inference, it is identical to SPIN i.e., just a different namespace regarding use of SPARQL as a Rules Language. "@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#8f3e94c8c4b7daf6713acf3b8973eec70027c0ea> a schema:Question ;
@@ -1009,15 +991,15 @@ BYOL: minimum $99.99 license cost, plus Amazon charges""" ;
 	schema:dateCreated "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2018-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:mainEntity <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> ;
-	schema:name "Inference capabilities combining Virtuoso and an external reasoner: are there facilities to add an external (OWL) reasoner or inference engine? Which one(s)?" ;
-	schema:text "Inference capabilities combining Virtuoso and an external reasoner: are there facilities to add an external (OWL) reasoner or inference engine? Which one(s)?" .
+	schema:name "Inference capabilities combining Virtuoso and an external reasoner: are there facilities to add an external (OWL) reasoner or inference engine? Which one(s)?"@en ;
+	schema:text "Inference capabilities combining Virtuoso and an external reasoner: are there facilities to add an external (OWL) reasoner or inference engine? Which one(s)?"@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#4a0072b057a428e94fae73b63d3a283c9d7edfb5> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "External Reasoner can work with Virtuoso via Frameworks like Jena and RDF4j (nee Sesame). Ultimately, Virtuoso's built-in custom rules are more flexibile and scalable due to the use of SPARQL as the Rules Language." ;
-	schema:text "External Reasoner can work with Virtuoso via Frameworks like Jena and RDF4j (nee Sesame). Ultimately, Virtuoso's built-in custom rules are more flexibile and scalable due to the use of SPARQL as the Rules Language." ;
+	schema:name "External Reasoner can work with Virtuoso via Frameworks like Jena and RDF4j (nee Sesame). Ultimately, Virtuoso's built-in custom rules are more flexibile and scalable due to the use of SPARQL as the Rules Language."@en ;
+	schema:text "External Reasoner can work with Virtuoso via Frameworks like Jena and RDF4j (nee Sesame). Ultimately, Virtuoso's built-in custom rules are more flexibile and scalable due to the use of SPARQL as the Rules Language."@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#327b4fb03fc7c7ab73f0d95f3427bae478147a51> a schema:Question ;
@@ -1035,7 +1017,7 @@ b) data in a transient graph?
 
 c) data in a materialised virtual graph (if there is any difference)?
 
-d) rule sets (ontologies)?""" ;
+d) rule sets (ontologies)?"""@en ;
 	schema:text """What is the level of support for constraint validation on
 
 a) data ingested in a native graph?
@@ -1044,12 +1026,12 @@ b) data in a transient graph?
 
 c) data in a materialised virtual graph (if there is any difference)?
 
-d) rule sets (ontologies)?""" .
+d) rule sets (ontologies)?"""@en .
 
 <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#68689c5eb702d0ba09582beeb086f0811e698ae1> a schema:Answer ;
 	schema:author <http://www.openlinksw.com/dataspace/organization/openlink#this> ;
 	schema:dateCreated "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
 	schema:dateModified "2019-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
-	schema:name "These are custom capabilities achivable via custom cartridges and/or SPARQL operatations applied to what's arlready in the RDF store -- kind of like a custom forward-chained inference that performs INSERT, UPDATE, DELETE operations . " ;
-	schema:text "These are custom capabilities achivable via custom cartridges and/or SPARQL operatations applied to what's arlready in the RDF store -- kind of like a custom forward-chained inference that performs INSERT, UPDATE, DELETE operations . " ;
+	schema:name "These are custom capabilities achivable via custom cartridges and/or SPARQL operatations applied to what's arlready in the RDF store -- kind of like a custom forward-chained inference that performs INSERT, UPDATE, DELETE operations . "@en ;
+	schema:text "These are custom capabilities achivable via custom cartridges and/or SPARQL operatations applied to what's arlready in the RDF store -- kind of like a custom forward-chained inference that performs INSERT, UPDATE, DELETE operations . "@en ;
 	pwdr:describedBy <http://data.openlinksw.com/oplweb/faq/Virtuoso/question#this> .
